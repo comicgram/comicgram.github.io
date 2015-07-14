@@ -1,0 +1,8 @@
+# Site settings
+title: Comicgram
+description: La tienda virtual de Comicgram con productos como cómics, mangas, playeras, accesorios, figuras coleccionables y muchas sorpresas más...
+url: "http://tienda.comicgram.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+port: 3000
